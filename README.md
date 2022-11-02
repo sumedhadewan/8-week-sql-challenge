@@ -1,6 +1,6 @@
 ## 8 Week SQL challenge
  
- This repository is create to document solutions for case studies started by Danny Ma (https://8weeksqlchallenge.com/)
+ Main purpose of creating this repository is to document solutions for case studies started by Danny Ma (https://8weeksqlchallenge.com)
  
  # SQL Challenge Case Studies
  1. [Case Study #1 - Danny's Diner](https://nbviewer.org/github/sumedhadewan/8-week-sql-challenge/blob/main/case_study_1_danny_diner.ipynb)

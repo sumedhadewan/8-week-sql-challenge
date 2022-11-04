@@ -1073,6 +1073,6 @@ WHERE plan_id = 2 AND next_plan = 1 AND EXTRACT(YEAR FROM start_date) = 2020
 #### Back to : [Top](#top) ▲
 
 
-#### Prev :  <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md'> Foodie-Fi PART 1 </a>
+#### Prev :  <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md'> Case Study 3 Part 1 </a>
 
 #### Back to : <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/'>This Project Table of Content</a>

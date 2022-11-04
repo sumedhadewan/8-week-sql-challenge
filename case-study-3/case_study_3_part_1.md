@@ -304,9 +304,9 @@ This case study is split into an initial data understanding question before divi
 1. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md'>Customer Journey</a>
 2. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md#analysis'>Data analysis questions</a>
 
-#### Back to : [Top](#top) ▲
+####  [To Top](#top) ▲
 
-#### Next : [Case Study 3 Part 2 ](#https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md) 
+#### Next : <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md'> Case Study 3 Part 2 </a>
 
 
 #### Back to : <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/'>This Project Table of Content</a>

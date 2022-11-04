@@ -21,7 +21,7 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
     2. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md#analysis'>Data analysis questions</a>
 
 
-Note: Solutions in SQLite 
+Note: Solutions in PostgreSQL
 
 
 Please check [my portfolio](https://sumedhadewan.github.io/portfolio/)

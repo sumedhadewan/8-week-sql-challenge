@@ -1,16 +1,27 @@
-## 8 Week SQL challenge
- 
- Main purpose of creating this repository is to document solutions for case studies started by Danny Ma (https://8weeksqlchallenge.com)
- 
+### 8 Week SQL challenge
 
+## Case Study 3 Foodie- Fi
+
+ <img src='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/images/foodie.png' width='350'>
  
- # SQL Challenge Case Studies
- 1. [Case Study #1 - Danny's Diner](https://nbviewer.org/github/sumedhadewan/8-week-sql-challenge/blob/main/case_study_1_danny_diner.ipynb)
- 2. [Case Study #2 - Pizza Runner](https://nbviewer.org/github/sumedhadewan/8-week-sql-challenge/blob/main/case_study_2_pizza_part_1.ipynb)
- 3. [Case Study #3 - Foodie-Fi](https://sumedhadewan.github.io/case_study_3_1/)
- 4. Case Study # 4 ( Committing soon)
-Note: Case 1 & 2 solutions in SQLite and Rest in PostgreSQL
+### Introduction
 
-Thank you 
+Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
 
-Please check [mmy portfolio](https://sumedhadewan.github.io/portfolio/)
+Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
+
+Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+
+ This Case Study 3 includes
+ 
+* [Datasets](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#dataset)
+* [Entity Relation Diagram](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#diagram)
+* [Case Questions](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#question)
+    1. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md'>Customer Journey</a>
+    2. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md#analysis'>Data analysis questions</a>
+
+
+Note: Solutions in SQLite 
+
+
+Please check [my portfolio](https://sumedhadewan.github.io/portfolio/)

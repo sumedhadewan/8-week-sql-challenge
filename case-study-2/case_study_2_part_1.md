@@ -16,9 +16,9 @@ Source : <a href='https://8weeksqlchallenge.com/case-study-2/' target='_blank'>8
 * Case Questions <br>
 This case study has LOTS of questions - they are broken up by area of focus including:
     - <a href='case_study_2_part_3.md'> Pizza Metrics </a>
-    - <a href='case_study_3_part_3.md#experience'> Runner and Customer Experience </a>
-    - <a href='case_study_3_part_4.md#ingredient'> Ingredient Optimisation</a>
-    - <a href='case_study_3_part_5.md#price'> Pricing and Ratings </a>
+    - <a href='case_study_2_part_3.md#experience'> Runner and Customer Experience </a>
+    - <a href='case_study_2_part_4.md'> Ingredient Optimisation</a>
+    - <a href='case_study_2_part_5.md'> Pricing and Ratings </a>
 
 
 Load Extension

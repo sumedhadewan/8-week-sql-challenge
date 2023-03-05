@@ -3,6 +3,7 @@
 ## Case Study # 4 Data Bank
 
  <img src='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/images/databank.png' width='350'>
+ 
 ### Introduction
 
 Danny thought that there should be some sort of intersection between these new age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!

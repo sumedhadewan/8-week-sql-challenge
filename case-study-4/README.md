@@ -2,8 +2,7 @@
 
 ## Case Study 3 Foodie- Fi
 
- <img src='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/images/foodie.png' width='350'>
- 
+ <img src='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/images/databank.png' width='350'>
 ### Introduction
 
 Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!

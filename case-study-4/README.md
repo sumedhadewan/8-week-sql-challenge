@@ -1,23 +1,27 @@
 ### 8 Week SQL challenge
 
-## Case Study 3 Foodie- Fi
+## Case Study # 4 Data Bank
 
  <img src='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/images/databank.png' width='350'>
 ### Introduction
 
-Subscription based businesses are super popular and Danny realised that there was a large gap in the market - he wanted to create a new streaming service that only had food related content - something like Netflix but with only cooking shows!
+Danny thought that there should be some sort of intersection between these new age banks, cryptocurrency and the data world…so he decides to launch a new initiative - Data Bank!
 
-Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!
+Data Bank runs just like any other digital bank - but it isn’t only for banking activities, they also have the world’s most secure distributed data storage platform!
 
-Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+Customers are allocated cloud data storage limits which are directly linked to how much money they have in their accounts. There are a few interesting caveats that go with this business model, and this is where the Data Bank team need your help!
 
- This Case Study 3 includes
+The management team at Data Bank want to increase their total customer base - but also need some help tracking just how much data storage their customers will need.
+
+This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
+
+This Case Study 4 includes
  
-* [Datasets](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#dataset)
-* [Entity Relation Diagram](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#diagram)
-* [Case Questions](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_1.md#question)
-    1. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md'>Customer Journey</a>
-    2. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-3/case_study_3_part_2.md#analysis'>Data analysis questions</a>
+* [Datasets](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/case_study_4_part_1.md#datasets)
+* [Entity Relation Diagram](https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/case_study_4_part_1.md#diagram)
+* Case Questions
+    1. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/case_study_4_part_2.md'>Customer Nodes Exploration</a>
+    2. <a href='https://github.com/sumedhadewan/8-week-sql-challenge/blob/main/case-study-4/case_study_4_part_2.md'>Customer Transactions</a>
 
 
 Note: Solutions in PostgreSQL
